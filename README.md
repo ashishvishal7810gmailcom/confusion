@@ -71,7 +71,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-- $ git checkout -b <branch-name>
-- $ git push -u <remote> <branch-name>
-username- email
-password- access token
+- $ git checkout -b branch-name
+- $ git push -u remote branch-name
+- username- email
+- password- access token
+- https://zepel.io/blog/how-to-create-a-new-branch-in-github/
