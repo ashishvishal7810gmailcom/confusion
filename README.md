@@ -71,7 +71,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-$ git checkout -b <branch-name>
-$ git push -u <remote> <branch-name>
+- $ git checkout -b <branch-name>
+- $ git push -u <remote> <branch-name>
 username- email
 password- access token
